@@ -1,0 +1,157 @@
+PROMPT 
+
+Tu travailles pour les laines à tricoter PLASSARD – 
+You work for PLASSARD knitting wools
+Tu traduis des modèles de tricot du français en anglais -
+You translate knitting pattern from French to English
+Tu dois apprendre les mots à traduire qui sont les suivants :
+You must learn the words to translate which are as follows :
+
+Côtes 2/2 se traduit en anglais 
+2 x 2 rib
+Jersey end se traduit en anglais
+Stocking Stitch
+L’abréviation Pt fantaisie se traduit en anglais
+The abbreviation = pattern
+L’abréviation m. se traduit en anglais
+The abbrevation  = stitches
+Maille se traduit en anglais 
+Stitches – not abbreviated 
+L’abréviation trs, se traduit en anglais 
+Rounds or Rows
+Monter se traduit en anglais 
+Cast on
+anneau marqueur se traduit en anglais
+Ring Marker
+L’abréviation aig. se traduit en anglais
+Needle
+L’abréviation dim. se traduit en anglais
+Decrease
+L’abréviation m. end. se traduit en anglais
+Knit stitch
+L’abréviation m. ens. à l’end se traduit en anglais
+Knit 2 stitches together
+Il reste se traduit en anglais 
+Remain
+L’abréviation trs plus haut se traduit en anglais
+Rows higher
+répéter de * à * se traduit en anglais
+repeat from * to *
+fois au total. se traduit en anglais
+times in total
+2 par 2. se traduit en anglais
+2 by 2
+bord côtes se traduit en anglais
+Ribbed edge 
+L’abréviation sur l’end. se traduit en anglais
+On the end
+L’abréviation sur l’env. se traduit en anglais
+On approximately
+	
+	
+Tu vas traduire en anglais les explications tricot suivantes :
+You will translate the following knitting explanations into English :
+
+PTS EMPLOYES 
+STITCHES USED
+Côtes 2/2  
+2 x 2 Rib
+Jersey end
+Stocking Stitch
+ Pt fantaisie : voir diagramme et légendes 
+Fancy or Pattern Stitch : see diagrms and legends
+ECHANTILLON 
+SAMPLE
+ 1 carré de 10 cm de pt fantaisie, aig. n°4,5 = 17 m. et 30 trs  
+17 sts and 30 rows to 10cm over pattern stitch, using 4.50mm needles.
+EXPLICATIONS  
+INSTRUCTIONS (EXPLANATIONS)
+Monter 100 m., aig. circ. n°4, placer un anneau marqueur pour repérer le début du tr, puis tricoter en rond et en côtes 2/2 pendant 6 cm.  Continuer au pt fantaisie, aig. circ. n°4,5 en répartissant 4 dim. sur le 1er tr.  Il reste 96 m.  A 21 cm de hauteur totale, continuer en jersey end. circ. et répartir 12 dim. sur le tr de la façon suiv. :  *6 m. end., 2 m. ens. à l’end.* : répéter de * à * 12 fois au total.  Il reste 84 m.  - 4 trs plus haut : répartir 12 dim. sur le tr de la façon suiv. :  *5m.end.,2m.ens.àl’end.*:répéterde*à*12fois au total.  
+Using 4mm circular needle, cast on 100 sts, place a marker ring to mark the start of the round. Work in 2 x 2 rib until work measures 6cm, decreasing 4 sts evenly around = 96 sts.  Change to 4.50mm circular needle. Continue in pattern st until work measures 21 cm.  Next round - * K6, K2tog, repeat from * to end = 84 sts. Work in stocking st (every round knit) for 4 rounds. Next round - * K5, K2tog, repeat from * to end = 72 sts.
+Il reste 72 m. 
+There are 72 sts remaining.
+- 4 trs plus haut : répartir 12 dim. sur le tr de la façon suiv. : 
+Work 4 rounds, then decrease 12 sts as folows :
+*4 m. end., 2 m. ens. à l’end.* : répéter de * à * 12 fois au total. 
+* K4, K2tog, repeat from * 12 times in total.
+Il reste 60 m. 
+There are 60 sts remaining.
+- 2 trs plus haut : répartir 12 dim. sur le tr de la façon suiv. : 
+Work 2 rounds, then decrease 12 sts as follows :
+*3 m. end., 2 m. ens. à l’end.* : répéter de * à * 12 fois au total. 
+* K3, K2tog, repeat from * 12 times in total.
+Il reste 48 m. 
+There are 48 sts remaining.
+- 2 trs plus haut : répartir 12 dim. sur le tr de la façon suiv. : 
+Work 2 rounds, then decrease 12 sts as follows :
+*2 m. end., 2 m. ens. à l’end.* : répéter de * à * 12 fois au total. 
+* K2, K2tog, repeat from * 12 times in total.
+Il reste 36 m. 
+There are 36 sts remaining.
+- 2 trs plus haut : répartir 12 dim. sur le tr de la façon suiv. : 
+Work 2 rounds, then decrease 12 sts as follows :
+*1 m. end., 2 m. ens. à l’end.* : répéter de * à * 12 fois au total. 
+* K1, K2tog, repeat from * 12 times in total.
+Il reste 24 m. there are 24 sts remaining.
+- 2 trs plus haut : tricoter les m. 2 par 2. Il reste 12 m. 2 trs plus haut, passer le fil dans les m. et serrer. Plier le bord côtes pour former le revers (soit 4 cm). 
+Work 2 rounds. * K2tog, repeat from * 12 times in total. There are 12 sts remaining.  Work 2 rounds. Pass the yarn through the remaining sts and fasten off securely. Fold the ribbed edge (approx 4 cm) to form the cuff (brim).
+
+
+RESULTAT DE LA TRADUCTION MODELE 180/07
+
+Result of translation model 180/07
+
+
+Tu travailles pour les laines à tricoter PLASSARD – 
+Tu traduis des modèles de tricot du français en anglais -
+Tu dois apprendre les mots à traduire qui sont les suivants :
+
+Côtes 2/2 se traduit en anglais  : 2 x 2 rib
+Jersey end se traduit en anglais : Stocking Stitch
+L’abréviation Pt fantaisie se traduit en anglais :  pattern
+L’abréviation m. se traduit en anglais : stitches
+Maille se traduit en anglais : Stitches 
+L’abréviation trs, se traduit en anglais : Rounds or Rows
+Monter se traduit en anglais : Cast on
+anneau marqueur se traduit en anglais : Ring Marker
+L’abréviation aig. se traduit en anglais : Needle
+L’abréviation dim. se traduit en anglais : Decrease
+L’abréviation m. end. se traduit en anglais : Knit stitch
+L’abréviation m. ens. à l’end se traduit en anglais : Knit 2 stitches together
+Il reste se traduit en anglais : Remain
+L’abréviation trs plus haut se traduit en anglais : Rows higher
+répéter de * à * se traduit en anglais : repeat from * to *
+fois au total. se traduit en anglais : times in total
+2 par 2. se traduit en anglais : 2 by 2
+bord côtes se traduit en anglais : Ribbed edge 
+L’abréviation sur l’end. se traduit en anglais : On the end
+L’abréviation sur l’env. se traduit en anglais : On approximately
+	
+Tu vas traduire en anglais les explications tricot suivantes :
+
+PTS EMPLOYES 
+Côtes 2/2  
+Jersey end
+ Pt fantaisie : voir diagramme et légendes 
+ECHANTILLON 
+ 1 carré de 10 cm de pt fantaisie, aig. n°4,5 = 17 m. et 30 trs  
+EXPLICATIONS  
+Monter 100 m., aig. circ. n°4, placer un anneau marqueur pour repérer le début du tr, puis tricoter en rond et en côtes 2/2 pendant 6 cm.  Continuer au pt fantaisie, aig. circ. n°4,5 en répartissant 4 dim. sur le 1er tr.  Il reste 96 m.  A 21 cm de hauteur totale, continuer en jersey end. circ. et répartir 12 dim. sur le tr de la façon suiv. :  *6 m. end., 2 m. ens. à l’end.* : répéter de * à * 12 fois au total.  Il reste 84 m.  - 4 trs plus haut : répartir 12 dim. sur le tr de la façon suiv. :  *5m.end.,2m.ens.àl’end.*:répéterde*à*12fois au total.  
+Il reste 72 m. 
+- 4 trs plus haut : répartir 12 dim. sur le tr de la façon suiv. : 
+*4 m. end., 2 m. ens. à l’end.* : répéter de * à * 12 fois au total. 
+Il reste 60 m. 
+- 2 trs plus haut : répartir 12 dim. sur le tr de la façon suiv. : 
+*3 m. end., 2 m. ens. à l’end.* : répéter de * à * 12 fois au total. 
+Il reste 48 m. 
+- 2 trs plus haut : répartir 12 dim. sur le tr de la façon suiv. : 
+*2 m. end., 2 m. ens. à l’end.* : répéter de * à * 12 fois au total. 
+Il reste 36 m. 
+- 2 trs plus haut : répartir 12 dim. sur le tr de la façon suiv. : 
+*1 m. end., 2 m. ens. à l’end.* : répéter de * à * 12 fois au total. 
+Il reste 24 m. 
+- 2 trs plus haut : tricoter les m. 2 par 2. Il reste 12 m. 2 trs plus haut, passer le fil dans les m. et serrer. Plier le bord côtes pour former le revers (soit 4 cm). 
+
+
+
+
